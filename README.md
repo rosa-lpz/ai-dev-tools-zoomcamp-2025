@@ -3,16 +3,14 @@
 </p>
 
 <h1 align="center">
-    <strong>AI Dev Tools Zoomcamp by [DataTalksClub](##About DataTalks.Club)</strong>
+    <strong>AI Dev Tools Zoomcamp by [DataTalksClub](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp/tree/main)</strong>
 </h1>
 
 <p align="center">
-Welcome to the AI Dev Tools Zoomcamp, a free course that helps you use AI tools to write better code, faster.
+AI Dev Tools Zoomcamp is a free course that helps you use AI tools to write better code, faster.
 </p>
 
-<p align="center">
-<a href="https://airtable.com/appJRFiWKHBgmEt70/shrpw7rk55Ewr1jCG"><img src="https://user-images.githubusercontent.com/875246/185755203-17945fd1-6b64-46f2-8377-1011dcb1a444.png" height="50" /></a>
-</p>
+
 
 
 
@@ -96,6 +94,10 @@ DataTalks.Club is a community of data enthusiasts learning and growing together.
 [![Course Status](https://img.shields.io/badge/Status-Coming_2025-yellow?style=for-the-badge)](https://airtable.com/appJRFiWKHBgmEt70/shrpw7rk55Ewr1jCG)
 [![Twitter](https://img.shields.io/badge/Share-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20out%20AI%20Dev%20Tools%20Zoomcamp!%20A%20free%20course%20on%20using%20AI%20tools%20for%20coding.%20Starting%202025!%20Learn%20more%3A%20https%3A%2F%2Fgithub.com%2FDataTalksClub%2Fai-dev-tools-zoomcamp)
 
+<p align="center">
+<a href="https://airtable.com/appJRFiWKHBgmEt70/shrpw7rk55Ewr1jCG"><img src="https://user-images.githubusercontent.com/875246/185755203-17945fd1-6b64-46f2-8377-1011dcb1a444.png" height="50" /></a>
+</p>
+
 </div>
 Join DataTalksClub:
 • [Website](https://datatalks.club/)
@@ -107,3 +109,4 @@ Join DataTalksClub:
 • [GitHub](https://github.com/DataTalksClub)
 • [LinkedIn](https://www.linkedin.com/company/datatalks-club/)
 • [Twitter](https://twitter.com/DataTalksClub)
+</div>
