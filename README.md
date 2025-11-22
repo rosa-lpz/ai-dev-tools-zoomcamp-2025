@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    <strong>AI Dev Tools Zoomcamp by DataTalksClub</strong>
+    <strong>AI Dev Tools Zoomcamp by [DataTalksClub](##About DataTalks.Club)</strong>
 </h1>
 
 <p align="center">
