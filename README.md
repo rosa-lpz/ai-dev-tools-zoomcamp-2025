@@ -6,7 +6,6 @@
     <strong>AI Dev Tools Zoomcamp by DataTalksClub</strong>
 </h1>
 
-
 AI Dev Tools Zoomcamp is a free course that helps you use AI tools to write better code, faster.
 This course is provided by [DataTalksClub](#about-datatalks.club) with [Alexey Grigorev](https://linkedin.com/in/agrigorev) and [Bhavani Ravi](https://www.linkedin.com/in/bhavanicodes) as instructors.
 
@@ -68,7 +67,6 @@ This course is provided by [DataTalksClub](#about-datatalks.club) with [Alexey G
 
 <div align="center">
 [![Join Slack](https://img.shields.io/badge/Join-Slack-4A154B?style=for-the-badge&logo=slack)](https://datatalks.club/slack.html)
-[![Course Status](https://img.shields.io/badge/Status-Coming_2025-yellow?style=for-the-badge)](https://airtable.com/appJRFiWKHBgmEt70/shrpw7rk55Ewr1jCG)
 [![Twitter](https://img.shields.io/badge/Share-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20out%20AI%20Dev%20Tools%20Zoomcamp!%20A%20free%20course%20on%20using%20AI%20tools%20for%20coding.%20Starting%202025!%20Learn%20more%3A%20https%3A%2F%2Fgithub.com%2FDataTalksClub%2Fai-dev-tools-zoomcamp)
 </div>
 
@@ -76,7 +74,7 @@ This course is provided by [DataTalksClub](#about-datatalks.club) with [Alexey G
 DataTalks.Club is a community of data enthusiasts learning and growing together. We're all about sharing knowledge, helping each other out, and making data science more accessible.
 
 Join DataTalksClub:
-• [Website](https://datatalks.club/)
+* [Website](https://datatalks.club/)
 • [Slack Community](https://datatalks.club/slack.html)
 • [Newsletter](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa)
 • [Events](http://lu.ma/dtc-events)
