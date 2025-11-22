@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="100%" src="images/course-cover.png" alt="AI Dev Tools Zoomcamp Cover Image">
+  <img width="70%" src="images/course-cover.png" alt="AI Dev Tools Zoomcamp Cover Image">
 </p>
 
 <h1 align="center">
-    <strong>AI Dev Tools Zoomcamp: Write Better Code Faster</strong>
+    <strong>AI Dev Tools Zoomcamp by DataTalksClub</strong>
 </h1>
 
 <p align="center">
@@ -14,19 +14,7 @@ Welcome to the AI Dev Tools Zoomcamp, a free course that helps you use AI tools 
 <a href="https://airtable.com/appJRFiWKHBgmEt70/shrpw7rk55Ewr1jCG"><img src="https://user-images.githubusercontent.com/875246/185755203-17945fd1-6b64-46f2-8377-1011dcb1a444.png" height="50" /></a>
 </p>
 
-<div align="center">
 
-[![Join Slack](https://img.shields.io/badge/Join-Slack-4A154B?style=for-the-badge&logo=slack)](https://datatalks.club/slack.html)
-[![Course Status](https://img.shields.io/badge/Status-Coming_2025-yellow?style=for-the-badge)](https://airtable.com/appJRFiWKHBgmEt70/shrpw7rk55Ewr1jCG)
-[![Twitter](https://img.shields.io/badge/Share-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20out%20AI%20Dev%20Tools%20Zoomcamp!%20A%20free%20course%20on%20using%20AI%20tools%20for%20coding.%20Starting%202025!%20Learn%20more%3A%20https%3A%2F%2Fgithub.com%2FDataTalksClub%2Fai-dev-tools-zoomcamp)
-
-</div>
-
-## How to Join?
-
-We're starting the first cohort of this course on November 18, 2025!
-
-[Sign up here](https://airtable.com/appJRFiWKHBgmEt70/shrpw7rk55Ewr1jCG) to join us.
 
 ## Who Is This For?
 
@@ -34,7 +22,7 @@ This course is for anyone who wants to use AI tools to help with coding.
 
 You don't need any AI experience to start - just curiosity about using AI tools to help with your coding!
 
-## What We'll Cover
+## Content
 
 
 ### Module 1 — [Introduction to Vibe Coding / AI Tools Overview](01-overview/)
@@ -101,7 +89,15 @@ You don't need any AI experience to start - just curiosity about using AI tools 
 
 DataTalks.Club is a community of data enthusiasts learning and growing together. We're all about sharing knowledge, helping each other out, and making data science more accessible.
 
-Join us:
+
+<div align="center">
+
+[![Join Slack](https://img.shields.io/badge/Join-Slack-4A154B?style=for-the-badge&logo=slack)](https://datatalks.club/slack.html)
+[![Course Status](https://img.shields.io/badge/Status-Coming_2025-yellow?style=for-the-badge)](https://airtable.com/appJRFiWKHBgmEt70/shrpw7rk55Ewr1jCG)
+[![Twitter](https://img.shields.io/badge/Share-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20out%20AI%20Dev%20Tools%20Zoomcamp!%20A%20free%20course%20on%20using%20AI%20tools%20for%20coding.%20Starting%202025!%20Learn%20more%3A%20https%3A%2F%2Fgithub.com%2FDataTalksClub%2Fai-dev-tools-zoomcamp)
+
+</div>
+Join DataTalksClub:
 • [Website](https://datatalks.club/)
 • [Slack Community](https://datatalks.club/slack.html)
 • [Newsletter](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa)
