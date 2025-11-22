@@ -3,25 +3,20 @@
 </p>
 
 <h1 align="center">
-    <strong>AI Dev Tools Zoomcamp by [DataTalksClub](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp/tree/main)</strong>
+    <strong>AI Dev Tools Zoomcamp by DataTalksClub</strong>
 </h1>
 
 <p align="center">
 AI Dev Tools Zoomcamp is a free course that helps you use AI tools to write better code, faster.
+This course is for anyone who wants to use AI tools to help with coding.
+This course is provided by [DataTalksClub](#about-datatalks.club) with [Alexey Grigorev](https://linkedin.com/in/agrigorev) and [Bhavani Ravi](https://www.linkedin.com/in/bhavanicodes) as instructors.
 </p>
 
 
 
-
-
-## Who Is This For?
-
-This course is for anyone who wants to use AI tools to help with coding.
-
-You don't need any AI experience to start - just curiosity about using AI tools to help with your coding!
+ 
 
 ## Content
-
 
 ### Module 1 — [Introduction to Vibe Coding / AI Tools Overview](01-overview/)
 
@@ -70,18 +65,8 @@ You don't need any AI experience to start - just curiosity about using AI tools 
 - Connectors: email, Slack, GitHub/Jira/Notion, databases
 - Ship lightweight assistants without maintaining servers
 
-## Your Instructor
-- [Alexey Grigorev](https://linkedin.com/in/agrigorev)
 
-## Coming Soon
-
-* Course Channel on DTC Slack
-* Telegram Channel with Announcements
-* Pre-launch Q&A Stream
-* Launch Stream with Course Overview
-* Course Google Calendar
-* FAQ
-* Course Playlist
+ 
 
 ## About DataTalks.Club
 
