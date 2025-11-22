@@ -61,6 +61,9 @@ This course is provided by [DataTalksClub](#about-datatalks.club) with [Alexey G
 - Ship lightweight assistants without maintaining servers
 
 
+## Homework
+Repository for [Homework](https://github.com/rosa-lpz/ai-dev-tools-zoomcamp-homework/)
+
 
 ## About DataTalks.Club
 
