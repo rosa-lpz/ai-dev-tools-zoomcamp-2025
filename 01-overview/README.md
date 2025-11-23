@@ -86,6 +86,7 @@ By the end of this module, you will:
 
 ## Relevant Links  
 
-- [▶️ Workshop Video](https://www.youtube.com/watch?v=NSMXQk4Axig)  
+- [▶️ Workshop Video - AI Coding Tools Compared](https://www.youtube.com/watch?v=NSMXQk4Axig)
+	- [Vibe coding GitHub](https://github.com/alexeygrigorev/workshops/tree/main/vibe-coding)
 - [AI Dev Tools Zoomcamp](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp)  
 - [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)  
